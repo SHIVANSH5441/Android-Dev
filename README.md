@@ -1,2 +1,0 @@
-# Android-Dev
-Android Apps
